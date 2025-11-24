@@ -101,8 +101,9 @@ export default function SignUp() {
       </Button>
       <br></br>
       <p>
-        Already have an account? <Link to='/AddProduct'>Login</Link>
+        Already have an account? <Link to='/Admin'>Login</Link>
       </p><br></br>
     </div>
   );
 }
+
